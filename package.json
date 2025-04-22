@@ -1,0 +1,15 @@
+{
+  "name": "cheatsheet.ts",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "limgit",
+  "git": "https://github.com/limgit/cheatsheet.ts",
+  "license": "MIT",
+  "description": "",
+  "packageManager": "pnpm@10.9.0",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
